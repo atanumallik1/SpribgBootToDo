@@ -8,3 +8,6 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 - [x] Slf4J , Log4J , Logback API
 - [ ] https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.logging
 - [ ] https://www.baeldung.com/spring-boot-logging
+
+## Spring Web
+- [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
