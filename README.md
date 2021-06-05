@@ -11,3 +11,9 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
 ## Spring Web
 - [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
+- [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-controller
+- [ ] https://spring.io/guides#tutorials
+
+
+## SAP Certification Training
+- [ ] https://training.sap.com/course/s4c80-advanced-extensibility-with-sap-cloud-sdk-classroom-019-g-en/?
