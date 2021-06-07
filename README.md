@@ -6,9 +6,11 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 - [ ] Understand Logging related Properties and execute them 
 - [ ] https://www.baeldung.com/spring-boot-logging
 - [x] Slf4J , Log4J , Logback API
-- [ ] https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.logging
+- [ ] https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.logging --> Must read
 - [ ] https://www.baeldung.com/spring-boot-logging
 
+## Spring Core
+- [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans
 ## Spring Web
 - [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 - [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-controller
