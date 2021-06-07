@@ -13,6 +13,9 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 - [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 - [ ] https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-controller
 - [ ] https://spring.io/guides#tutorials
+- [ ] Beldung https://www.baeldung.com/rest-with-spring-series
+- [ ] Beldung https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration
+- [ ] 
 
 
 ## SAP Certification Training
